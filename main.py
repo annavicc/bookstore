@@ -6,6 +6,7 @@ from app.routers import load_routes
 from app.response import CustomResponse, CustomApi as Api
 from flask_marshmallow import Marshmallow
 
+
 APP = Flask(__name__)
 CORS(APP, resources={r'/*': {'origins': '*'}})
 DB_URI = "mongodb+srv://{}:{}@{}".format(
