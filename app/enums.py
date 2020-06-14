@@ -1,0 +1,2 @@
+RESERVED = 'Emprestado'
+AVAILABLE = 'Disponível'
