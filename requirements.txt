@@ -53,7 +53,7 @@ pytest-openfiles==0.5.0
 pytest-remotedata==0.3.2
 python-dotenv==0.10.5
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.23.0
 requests-unixsocket==0.1.5
 sentinels==1.0.0
