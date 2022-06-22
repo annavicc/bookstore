@@ -32,7 +32,7 @@ mccabe==0.6.1
 mongoengine==0.19.1
 mongomock==3.19.0
 more-itertools==8.4.0
-numpy==1.18.5
+numpy==1.22.0
 packaging==20.4
 pip-tools==4.5.1
 pluggy==0.13.1
